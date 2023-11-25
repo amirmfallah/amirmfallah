@@ -1,16 +1,13 @@
-### Hi there 👋
+# AmirMohammad Fallah
 
-<!--
-**amirmfallah/amirmfallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Rasht, Guilan, Iran | 📧 amirmhfallah@gmail.com | 🌐 [amirmfallah.com](http://amirmfallah.com) | [LinkedIn](https://linkedin.com/in/amirmfallah) | [GitHub](https://github.com/amirmfallah)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate computer engineering student with a focus on artificial intelligence and machine learning. My academic journey at Guilan University has equipped me with a solid foundation, and my entrepreneurial and work experiences have allowed me to apply my knowledge in practical settings.
+
+## Education
+
+- **B.Sc in Computer Engineering**
+  _Guilan University, Rasht, Guilan, Iran_
+  _Sep 2018 — Aug 2023_

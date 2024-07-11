@@ -1,4 +1,4 @@
-# Amirmohammad Fallah
+# Amir Fallah
 
 📍 Melbourne, VIC, Australia | 📧 amirmhfallah@gmail.com | 🌐 [amirmfallah.com](http://amirmfallah.com) | [LinkedIn](https://linkedin.com/in/amirmfallah) | [GitHub](https://github.com/amirmfallah)
 
